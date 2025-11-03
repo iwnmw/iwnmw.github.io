@@ -8,4 +8,10 @@ Next, with the geometries in place, I was responsible for setting up both the "g
 
 Finally, with both models set up, I was responsible for defining and running a series of four simulations on each model. Anterior tibial translations of 7mm and interior tibial rotations of 5 degrees were applied to both models, and "loaded" and "unloaded" versions of both motions were applied as well ("loaded" simulations were simulations in which a 250N downward force was applied to the femur, representing the compression of the knee due to bodyweight, and "unloaded" simulations did not contain this additional load force). This led to four different quasi-static simulations for each model, for a total of eight simulations.
 
-After setting up and running the simulations, I was responsible for recording, documenting, and presenting the results of the analyses. I presented my findings at UMKC's undergraduate research symposium, and was then selected to present my findings at the Missouri State Capitol. Both presentations were a poster presentation format.
+![Growth Plate Knee Model](../assets/images/GPKneeModel.png)
+
+As an illustration, the above picture is a screenshot of the growth-plate knee model I created, taken from the FEBio Studio viewing window.
+
+After setting up and running the simulations, I was responsible for recording, documenting, and presenting the results of the analyses. I presented my findings at UMKC's undergraduate research symposium, and was then selected to present my findings at the Missouri State Capitol. Both presentations were a poster presentation format. Below is a picture of me standing next to my poster at Missouri's Undergraduate Research Day at the Capitol!
+
+![Undergraduate Research Day at the Capitol](../assets/images/CapitolPoster.png)
