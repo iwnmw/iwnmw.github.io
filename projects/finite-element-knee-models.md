@@ -14,4 +14,4 @@ As an illustration, the above picture is a screenshot of the growth-plate knee m
 
 After setting up and running the simulations, I was responsible for recording, documenting, and presenting the results of the analyses. I presented my findings at UMKC's undergraduate research symposium, and was then selected to present my findings at the Missouri State Capitol. Both presentations were a poster presentation format. Below is a picture of me standing next to my poster at Missouri's Undergraduate Research Day at the Capitol!
 
-![Undergraduate Research Day at the Capitol](../assets/images/CapitolPoster.png)
+![Undergraduate Research Day at the Capitol](../assets/images/CapitolPoster.jpg)
