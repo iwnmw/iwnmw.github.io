@@ -1,0 +1,11 @@
+To ensure that I properly designed the geometry of my Stewart platform for my thesis-related work on the motion platform, I created a GUI-based MATLAB app to analyze the workspace and kinematic analysis of a Stewart platform manipulator, simply dubbed the Kinematic Analysis Program (KAP).
+
+I will describe the KAP workflow in more detail during this post, but the GUI is divided into two separate blocks: a setup-focused block, and a results block. These two blocks are shown below for an overall summary of the app before diving into a more detailed workflow description.
+
+![Block 1: Setup Block](../assets/images/SetupBlock.png)
+
+![Block 2: Results Block](../assets/images/ResultsBlock.png)
+
+To begin with, the setup block allows the user to specify a number of things about 1) the Stewart platform they want to analyze and 2) the type of analysis they want to conduct. First, on the top left of the setup block, the user is given 6 geometric parameters of the Stewart platform they may adjust (the last box, maximum height search, is not a geometric parameter for the platform, and is merely a height used in a pseudo-direct kinematic calculation for determining the "resting height" of the platform, which will be discussed later. For most uses, this parameter does not need to be adjusted from its default value of 30). Two of the the parameters are a radius of some kind: either the base radius or the platform radius. Usually, the joints of both the manipulator's base platform and end-effector platform are both placed on a circle of a given radius. The "Base Radius" simply specifies the radius of the circle on the base platform that the base joints are placed on, and the "Platform Radius" simply describes the radius of the circle on the end-effector platform that the end-effector joints are placed on. Additionally, joints are placed in three pairs, offset 120 degrees from one another. However, each joint is usually offset from its p 
+
+As the user adjusts the platform geometry, the 3D visualization of the platform adjusts automatically. For instance, the original image of the setup block was of a relatively standard geometric configuration, with a base radius
