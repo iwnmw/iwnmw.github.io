@@ -4,13 +4,11 @@
     <h2>Overview</h2>
     <p>I'm a graduate mechanical engineering student currently pursuing a Master's thesis in robotics and controls at the University of Missouri - Kansas City! I have a strong background in programming (C++/Python/MATLAB), embedded systems, finite element analysis/simulation, control system design, and CAD/3D Modeling. I'm passionate about all things engineering and am always trying to learn new things!</p>
     <h2>Contact Information, Resumes, and Other Links</h2>
-    <p>
-     - E-mail: isaacbwoodward@gmail.com
-     - Phone: 816-206-8312
-     - [Robotics and Controls Resume](./assets/pdf/Isaac Woodward Resume - Robotics and Controls.pdf)
-     - [FEA and Simulation Resume](./assets/pdf/Isaac Woodward Resume - FEA and Simulation.pdf)
-     - [My LinkedIn](https://www.linkedin.com/in/isaac-woodward-6213ba261?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-    </p>
+    <p>- E-mail: isaacbwoodward@gmail.com</p>
+    <p>- Phone: 816-206-8312</p>
+    <p>- [Robotics and Controls Resume](./assets/pdf/Isaac Woodward Resume - Robotics and Controls.pdf)</p>
+    <p>- [FEA and Simulation Resume](./assets/pdf/Isaac Woodward Resume - FEA and Simulation.pdf)</p>
+    <p>- [My LinkedIn](https://www.linkedin.com/in/isaac-woodward-6213ba261?utm_source=share_via&utm_content=profile&utm_medium=member_ios)</p>
   </div>
   <img src="./assets/images/SeniorPicture.jpg" alt="Isaac Woodward" style="width: 360px; border-radius: 8px;">
 </div>
