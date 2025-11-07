@@ -6,15 +6,15 @@
     <h2>Contact Information, Resumes, and Other Links</h2>
     <p>My Email: isaacbwoodward@gmail.com</p>
     <p>Phone: 816-206-8312</p>
-    <a href="./assets/pdf/Isaac Woodward Resume - Robotics and Controls.pdf">
+    <p><a href="./assets/pdf/Isaac Woodward Resume - Robotics and Controls.pdf">
       Robotics and Controls Resume (PDF)
-    </a><br><br>
-    <a href="./assets/pdf/Isaac Woodward Resume - FEA and Simulation.pdf">
+    </a></p>
+    <p><a href="./assets/pdf/Isaac Woodward Resume - FEA and Simulation.pdf">
       FEA & Simulation Resume (PDF)
-    </a><br><br>
-    <a href="https://www.linkedin.com/in/isaac-woodward-6213ba261?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+    </a></p>
+    <p><a href="https://www.linkedin.com/in/isaac-woodward-6213ba261?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
       LinkedIn Profile
-    </a>
+    </a></p>
   </div>
   <img src="./assets/images/SeniorPicture.jpg" alt="Isaac Woodward" style="width: 360px; border-radius: 8px;">
 </div>
