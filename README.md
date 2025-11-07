@@ -58,9 +58,7 @@ Below are links to some of my projects:
       <p>A prototype of a wave motion simulation system using a Stewart platform manipulator atop an omni-wheel rover.</p>
     </div>
 
-    <a href="./projects/motion-platform.md" style="margin-top: auto;">
-      View Project →
-    </a>
+    <a href="./projects/motion-platform.html">View Project →</a>
   </div>
 
   <!-- Card 2 -->
@@ -91,9 +89,7 @@ Below are links to some of my projects:
       <p>A MATLAB-based program for analyzing the kinematic performance and workspace of Stewart platform manipulators.</p>
     </div>
 
-    <a href="./projects/kinematic-analysis-program.md" style="margin-top: auto;">
-      View Project →
-    </a>
+    <a href="./projects/kinematic-analysis-program.html">View Project →</a>
   </div>
 
   <!-- Card 3 -->
@@ -124,9 +120,7 @@ Below are links to some of my projects:
       <p>Investigating the effect of the adolescent growth plate on ACL strain using finite element models.</p>
     </div>
 
-    <a href="./projects/finite-element-knee-models.md" style="margin-top: auto;">
-      View Project →
-    </a>
+    <a href="./projects/finite-element-knee-models.html">View Project →</a>
   </div>
 
 </div>
