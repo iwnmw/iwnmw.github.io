@@ -37,6 +37,9 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(33% - 20px);
+    height: 450px;
+    display: flex;
+    flex-direction: column;
   ">
     <img src="./assets/images/MotionPlatform.jpg" style="width: 100%; border-radius: 6px;">
     <h3>Motion Platform</h3>
@@ -51,6 +54,9 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(33% - 20px);
+    height: 450px;
+    display: flex;
+    flex-direction: column;
   ">
     <img src="./assets/images/SetupBlock.png" style="width: 100%; border-radius: 6px;">
     <h3>Kinematic Analysis Program</h3>
@@ -65,6 +71,9 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(33% - 20px);
+    height: 450px;
+    display: flex;
+    flex-direction: column;
   ">
     <img src="./assets/images/GPKneeModel.png" style="width: 100%; border-radius: 6px;">
     <h3>Finite Element Pediatric Knees</h3>
