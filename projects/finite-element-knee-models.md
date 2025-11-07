@@ -1,3 +1,6 @@
+layout: default
+title: Motion Platform
+
 # Finite Element Knee Models (Summer of 2023)
 
 Conducted an undergraduate research project with Dr. Antonis Stylianou at UMKC to investigate the effects of the adolescent growth plate on ACL stress/strain during knee loading.
