@@ -23,8 +23,21 @@
 
 Below are links to some of my projects:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div style="width: 300px; border: 1px solid #ccc; padding: 12px; border-radius: 8px;">
+<div style="
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+">
+
+  <!-- Card 1 -->
+  <div style="
+    flex: 1 1 calc(33% - 20px); 
+    border: 1px solid #ccc; 
+    padding: 12px; 
+    border-radius: 8px;
+    max-width: calc(33% - 20px);
+  ">
     <img src="./assets/images/MotionPlatform.jpg" style="width: 100%; border-radius: 6px;">
     <h3>Motion Platform</h3>
     <p>A prototype of a wave motion simulation system using a Stewart platform manipulator mounted atop an omni wheel, kiwi drive rover.</p>
@@ -32,7 +45,14 @@ Below are links to some of my projects:
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<!-- Card 2 -->
+<div style="
+    flex: 1 1 calc(33% - 20px); 
+    border: 1px solid #ccc; 
+    padding: 12px; 
+    border-radius: 8px;
+    max-width: calc(33% - 20px);
+">
   <div style="width: 300px; border: 1px solid #ccc; padding: 12px; border-radius: 8px;">
     <img src="./assets/images/SetupBlock.png" style="width: 100%; border-radius: 6px;">
     <h3>Kinematic Analysis Program</h3>
@@ -41,7 +61,14 @@ Below are links to some of my projects:
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<!-- Card 3 -->
+<div style="
+    flex: 1 1 calc(33% - 20px); 
+    border: 1px solid #ccc; 
+    padding: 12px; 
+    border-radius: 8px;
+    max-width: calc(33% - 20px);
+">
   <div style="width: 300px; border: 1px solid #ccc; padding: 12px; border-radius: 8px;">
     <img src="./assets/images/GPKneeModel.png" style="width: 100%; border-radius: 6px;">
     <h3>Finite Element Models of Pediatric Knees</h3>
