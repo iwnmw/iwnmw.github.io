@@ -12,9 +12,12 @@ I was responsible for all aspects of this prototype, including the geometric des
       The mechanical design process of the Stewart platform involved first determining a set of geometric parameters (base and platform angles, base and platform diameters, and actuator geometry). The actuators were selected before anything else (Actuonix P16-200-20-P actuators were used) and the rest of the platform geometry was designed around these actuators to optimize heave workspace while maintaining reasonable kinematic performance. After that, the detailed design of the Stewart platform was carried out. The main frame components were made from cut 2020 aluminum frames due to their modularity and ease of use/assembly. In a Stewart platform, the 6 joints on the base platform must be universal (U) joints, while the 6 joints on the end-effector platform must be spherical (S) joints. For the U joints, cheap U joints for hobby robotics were simply ordered, and these joints proved to have sufficient range of motion for all platform operation. For the S joints, initially, cheap rod ends for hobby robotics were used, but these proved to have insufficient range of motion for wave motion simulation. To solve these range of motion problem, 3D printed ball joints were created (these were initially employed as a temporary solution, but they worked so well and were so easy to use that I decided to keep them permanently).  The platform itself was made of acrylic with a grid of M5 clearance holes laser cut into it. Finally, a number of smaller 3D-printed joints were designed to connect everything together. The Stewart platform itself, after the mechanical design/fabrication was completed and before any of the electronics were added, is shown on the right.
     </p>
   </div>
-  <div style = "flex: 1; max-width: 50%;">
+  <div style = "flex: 1; max-width: 50%; display: flex; justify-content: center; align-items: center;">
    <img src="../assets/images/StewartPlatformMechanicalOnly.jpg"
-      style="width: 100%; border-radius: 8px;">
+      style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <p style="text-align: center; font-size: 0.9em; color: #666;">
+      Figure 1. Stewart Platform Mechanical Structure
+    </p>
   </div>
 </div>
 
