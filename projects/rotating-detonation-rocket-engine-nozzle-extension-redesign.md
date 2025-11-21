@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Rotating Detonation Rocket Engine Nozzle Extension Redesign (Summer of 2024)
 
 I was very fortunate to be able to work as an intern at NASA's Marshall Spaceflight Center in Huntsville, AL during the Summer of 2024! I worked on multiple different projects during my time at Marshall, but one project that really stands out was a redesign of a rotating detonation rocket engine (RDRE) nozzle extension.
