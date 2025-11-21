@@ -159,7 +159,7 @@ Below are links to some of my projects:
         <p>Redesigning a rotating detonation rocket engine nozzle extension for additive manufacturing.</p>
       </div>
   
-      <a href="./projects/rotating-detonation-rocket-engine-nozzle-extension-redesign.md">View Project →</a>
+      <a href="./projects/rotating-detonation-rocket-engine-nozzle-extension-redesign.html">View Project →</a>
   
 </div>
 
