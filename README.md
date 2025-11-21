@@ -37,7 +37,7 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(50% - 20px);
-    height: 500px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -69,7 +69,7 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(50% - 20px);
-    height: 500px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -109,7 +109,7 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(50% - 20px);
-    height: 500px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -139,7 +139,7 @@ Below are links to some of my projects:
     padding: 12px; 
     border-radius: 8px;
     max-width: calc(50% - 20px);
-    height: 500px;
+    height: 600px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -159,7 +159,7 @@ Below are links to some of my projects:
         <p>Redesigning a rotating detonation rocket engine nozzle extension for additive manufacturing.</p>
       </div>
   
-      <a href="./projects/projects/rotating-detonation-rocket-engine-nozzle-extension-redesign.md">View Project →</a>
+      <a href="./projects/rotating-detonation-rocket-engine-nozzle-extension-redesign.md">View Project →</a>
   
 </div>
 
