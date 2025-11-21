@@ -32,16 +32,17 @@ Below are links to some of my projects:
 
   <!-- Card 1 -->
   <div style="
-    flex: 1 1 calc(33% - 20px); 
+    flex: 1 1 calc(50% - 20px); 
     border: 1px solid #ccc; 
     padding: 12px; 
     border-radius: 8px;
-    max-width: calc(33% - 20px);
+    max-width: calc(50% - 20px);
     height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
   ">
+
 
     <div style="
       display: flex;
@@ -63,16 +64,17 @@ Below are links to some of my projects:
 
   <!-- Card 2 -->
   <div style="
-    flex: 1 1 calc(33% - 20px); 
+    flex: 1 1 calc(50% - 20px); 
     border: 1px solid #ccc; 
     padding: 12px; 
     border-radius: 8px;
-    max-width: calc(33% - 20px);
+    max-width: calc(50% - 20px);
     height: 500px;
     display: flex;
     flex-direction: column;
     align-items: center;
   ">
+
 
     <div style="
       display: flex;
@@ -93,12 +95,20 @@ Below are links to some of my projects:
   </div>
 
   <!-- Card 3 -->
+
+<div style="
+  display: flex; 
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 20px;
+">
+  
   <div style="
-    flex: 1 1 calc(33% - 20px); 
+    flex: 1 1 calc(50% - 20px); 
     border: 1px solid #ccc; 
     padding: 12px; 
     border-radius: 8px;
-    max-width: calc(33% - 20px);
+    max-width: calc(50% - 20px);
     height: 500px;
     display: flex;
     flex-direction: column;
@@ -123,5 +133,33 @@ Below are links to some of my projects:
     <a href="./projects/finite-element-knee-models.html">View Project →</a>
   </div>
 
+  <div style="
+    flex: 1 1 calc(50% - 20px); 
+    border: 1px solid #ccc; 
+    padding: 12px; 
+    border-radius: 8px;
+    max-width: calc(50% - 20px);
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  ">
+    <div style="
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        margin-top: auto;
+        margin-bottom: auto;
+        width: 100%;
+      ">
+        <img src="./assets/images/NozzleExtension.jpg"
+             style="width: 100%; max-height: 250px; object-fit: contain; border-radius: 6px;">
+        <h3>Nozzle Extension Redesign</h3>
+        <p>Redesigning a rotating detonation rocket engine nozzle extension for additive manufacturing.</p>
+      </div>
+  
+      <a href="./projects/projects/rotating-detonation-rocket-engine-nozzle-extension-redesign.md">View Project →</a>
+  
 </div>
 
