@@ -12,6 +12,8 @@ I was very fortunate to be able to work as an intern at NASA's Marshall Spacefli
   <div style="flex:1; min-width:0;">
     <p>
       Most of the fundamental structure and function of the nozzle extension remained unchanged by my redesign. The purpose of my redesign, however, was to enable additive manufacturing of the nozzle extension using laser powder bed fusion (LPBF). Thus, this redesign recquired modifying various geometries to decrease their overhang angle to within the allowed amount and designing light and easily removable support structures at some locations. I then updated all CAD models and engineering drawings in PTC Creo using GD&T to ensure that the nozzle extension was fully ready for manufacture. Figure 1 shows me standing with a scaled, 3D printed model of the nozzle extension.
+
+      Unfortunately, there aren't many pictures of this project that I can show, but personally, it was one of my favorite projects I have ever worked on! I was able to get a lot of experience in more advanced CAD techniques like surface modeling as well as in GD&T. I also was introduced to techniques of metal additive manufacturing and some of the design principles when designing a part to be manufactured using these methods. Overall, this was a really awesome project, and one of my personal favorites!
     </p>
   </div>
 
@@ -31,5 +33,3 @@ I was very fortunate to be able to work as an intern at NASA's Marshall Spacefli
     </p>
   </div>
 </div>
-
-Unfortunately, there aren't many pictures of this project that I can show, but personally, it was one of my favorite projects I have ever worked on! I was able to get a lot of experience in more advanced CAD techniques like surface modeling as well as in GD&T. I also was introduced to techniques of metal additive manufacturing and some of the design principles when designing a part to be manufactured using these methods. Overall, this was a really awesome project, and one of my personal favorites!
